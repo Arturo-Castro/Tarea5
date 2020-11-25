@@ -1,0 +1,23 @@
+.horas-minutos-segundos{
+    margin-bottom: 16px;
+    margin-left: 16px;
+    
+}
+
+form {
+    width: 39%;
+    margin: 350px auto;
+}
+
+button{
+    position: absolute;
+    left: 800px;
+    bottom: 380px;
+}
+
+strong {
+    position: absolute;
+    left: 500px;
+    top: 95px;
+    font-size: 90px;
+}
